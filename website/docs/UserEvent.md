@@ -17,6 +17,10 @@ title: User Event
 - [`clear()`](#clear)
   - [Sequence of events](#sequence-of-events-1)
 
+:::note
+Requires `@testing-library/react-native` version 12.2.0.
+:::
+
 :::caution
 User Event API is in beta stage.
 
